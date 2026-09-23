@@ -27,7 +27,7 @@ Everything is static — open `index.html` directly in a browser, or serve the f
 - All copy, dates, credential IDs, and course names come from your CV and the certificate PDFs you shared — nothing is invented.
 - The CGPA calculator ships with your known course names (CSC112, COS 106, COS 102, MATH 102, PHY 102) but **no pre-filled grades** — add your real ones. It saves to `localStorage`, so it remembers between visits on the same browser, but nothing leaves the browser.
 - The task planner is intentionally empty by default. It doesn't include your weekly commitments (church, field service, etc.) — those are personal, and this is a public site anyone can view once it's live on GitHub Pages.
-- There are no photos yet — the design leans on layout, color and type instead of stock images. If you want real photos (a headshot, resin pieces, Phoebe's Paragon dishes), drop them in `assets/img/` and reference them from the relevant page; I'd suggest starting with the hero on `index.html` and the venture cards on `work.html`.
+- Your photo is now in the hero on `index.html` (`assets/img/profile.jpg`), cropped to a square and set inside the halo-ring frame. If you want more photos (resin pieces, Phoebe's Paragon dishes), drop them in `assets/img/` and reference them the same way — the venture cards on `work.html` would be the natural next spot.
 - The Credly note on the certifications page is left as plain text because I can't log into third-party accounts on your behalf — see the note below.
 
 ## Deploying to GitHub Pages (github.com/Quinn-abihail)

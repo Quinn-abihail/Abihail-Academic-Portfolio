@@ -78,7 +78,7 @@
     var tdPoint = document.createElement('td');
     tdPoint.className = 'pt-cell';
     tdPoint.style.fontFamily = 'var(--font-mono)';
-    tdPoint.style.color = 'var(--muted-light)';
+    tdPoint.style.color = 'var(--text-muted)';
 
     var tdRemove = document.createElement('td');
     var rmBtn = document.createElement('button');
