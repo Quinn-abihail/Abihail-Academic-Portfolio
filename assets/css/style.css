@@ -107,6 +107,7 @@ section{padding-block:88px;}
 .footer-row{display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between;font-size:.9rem;}
 .footer-links{display:flex;gap:18px;flex-wrap:wrap;}
 .footer-links a:hover{color:var(--text);}
+.footer-note{margin-top:10px;font-size:.78rem;color:var(--text-muted);opacity:.75;}
 
 /* ---------- Hero ---------- */
 .hero{
